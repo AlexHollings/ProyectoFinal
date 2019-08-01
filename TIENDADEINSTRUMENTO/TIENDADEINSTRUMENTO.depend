@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1564681584 source:c:\users\ussvo\desktop\uni\algoritmo\tiendadeinstrumento\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
